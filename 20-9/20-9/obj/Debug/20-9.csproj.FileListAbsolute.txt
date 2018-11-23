@@ -1,0 +1,6 @@
+C:\Users\DELL CORE i5\source\repos\20-9\20-9\bin\Debug\20-9.exe.config
+C:\Users\DELL CORE i5\source\repos\20-9\20-9\bin\Debug\20-9.exe
+C:\Users\DELL CORE i5\source\repos\20-9\20-9\bin\Debug\20-9.pdb
+C:\Users\DELL CORE i5\source\repos\20-9\20-9\obj\Debug\20-9.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\20-9\20-9\obj\Debug\20-9.exe
+C:\Users\DELL CORE i5\source\repos\20-9\20-9\obj\Debug\20-9.pdb

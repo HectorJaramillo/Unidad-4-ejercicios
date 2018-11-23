@@ -1,0 +1,7 @@
+C:\Users\DELL CORE i5\source\repos\20-8\20-8\bin\Debug\20-8.exe.config
+C:\Users\DELL CORE i5\source\repos\20-8\20-8\bin\Debug\20-8.exe
+C:\Users\DELL CORE i5\source\repos\20-8\20-8\bin\Debug\20-8.pdb
+C:\Users\DELL CORE i5\source\repos\20-8\20-8\obj\Debug\20-8.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\20-8\20-8\obj\Debug\20-8.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\20-8\20-8\obj\Debug\20-8.exe
+C:\Users\DELL CORE i5\source\repos\20-8\20-8\obj\Debug\20-8.pdb
